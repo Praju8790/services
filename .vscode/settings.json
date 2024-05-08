@@ -1,0 +1,18 @@
+{
+    "editor.bracketPairColorization.independentColorPoolPerBracketType": false,
+    "editor.language.colorizedBracketPairs": [
+
+    ],
+    "launch": {
+      
+
+        "configurations": [],
+        "compounds": []
+    },
+
+
+    
+    "editor.tokenColorCustomizations" :{
+        "comments": "#0d00ff"
+}
+}
